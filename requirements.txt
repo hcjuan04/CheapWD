@@ -1,0 +1,6 @@
+scapy
+multiprocessing
+threading
+gps
+psycopg2
+simplekml
