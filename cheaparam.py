@@ -11,6 +11,6 @@ probeint = 'wlan2'
 clientint = 'wlan3'
 user_db = "postgres"
 database = "CHEAPWD"
-passw = "yosequeesfaci1-"
+passw = "yosequeesfacil"
 hostdb = "localhost"
 
